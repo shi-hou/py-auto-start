@@ -1,6 +1,6 @@
 import os
 
-from py_auto_start import auto_starter
+from py_auto_starter import auto_starter
 
 if __name__ == '__main__':
     name = 'test'

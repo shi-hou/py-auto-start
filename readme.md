@@ -1,15 +1,15 @@
-# py-auto-start
+# py-auto-starter
 
-![PyPI](https://img.shields.io/pypi/v/py-auto-start)
+![PyPI](https://img.shields.io/pypi/v/py-auto-starter)
 ![PyPI - Platforms](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
-![PyPI - License](https://img.shields.io/pypi/l/py-auto-start)
+![PyPI - License](https://img.shields.io/pypi/l/py-auto-starter)
 
 cross-platform auto start
 
 ## Install
 
 ```
-pip install py-auto-start
+pip install py-auto-starter
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ pip install py-auto-start
 ```python
 import os
 
-from py_auto_start import auto_starter
+from py_auto_starter import auto_starter
 
 name = 'test'
 path = os.path.abspath('test.exe')
